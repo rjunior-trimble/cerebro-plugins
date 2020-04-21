@@ -1,9 +1,9 @@
-https://www.npmjs.com/package/cerebro-lipsum
-https://www.npmjs.com/package/convert-color
-https://www.npmjs.com/package/cerebro-shell
-https://www.npmjs.com/package/cerebro-photos
-https://www.npmjs.com/package/cerebro-gif
-https://www.npmjs.com/package/cerebro-imdb
-https://www.npmjs.com/package/cerebro-ip
-https://www.npmjs.com/package/cerebro-npm
-https://github.com/Krbz/cerebro-base64
+- https://www.npmjs.com/package/cerebro-lipsum
+- https://www.npmjs.com/package/convert-color
+- https://www.npmjs.com/package/cerebro-shell
+- https://www.npmjs.com/package/cerebro-photos
+- https://www.npmjs.com/package/cerebro-gif
+- https://www.npmjs.com/package/cerebro-imdb
+- https://www.npmjs.com/package/cerebro-ip
+- https://www.npmjs.com/package/cerebro-npm
+- https://github.com/Krbz/cerebro-base64
